@@ -16,7 +16,7 @@ Limitações dos dados: a consulta da ANEEL traz no máximo 1200 linhas por sigl
 ## Como executar
 ```bash
 pip install numpy pandas matplotlib scikit-learn jupyter
-jupyter notebook Aula_APIs_Energia_Renovavel_ML_final.ipynb   # Kernel > Restart & Run All
+jupyter notebook Aula_APIs_Energia_Renovavel.ipyn   # Kernel > Restart & Run All
 ```
 As primeiras células consultam as APIs e geram os dois CSVs de novo. Não precisa de token.
 
